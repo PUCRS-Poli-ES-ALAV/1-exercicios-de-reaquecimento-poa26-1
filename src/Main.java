@@ -18,7 +18,7 @@ public class Main {
 
         // 5. Sequência F(n)
         System.out.println("5. Sequência F(4): " + Recursao.sequenciaDada(4)); // Esperado: F(4)=20)
-/*
+
         // 6. Função de Ackerman
         System.out.println("6. Ackerman A(2, 2): " + Recursao.ackerman(2, 2)); // Esperado: 7
 /*
